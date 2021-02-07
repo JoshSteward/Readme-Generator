@@ -58,8 +58,17 @@ inquirer
     },
     
   ])
-  
-    fs.writeFile('index.html', data, (err) =>
+  .then(function(data){
+
+    fs.writeFile('README.md', generate(data), (err) =>
         err ? console.error(err) : console.log('Success!')
-    ); 
+        );
+    }
+  );
+
+  function init(){
+
+  }
+  init();
+    
   
