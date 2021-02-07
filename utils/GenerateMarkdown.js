@@ -1,10 +1,10 @@
 function generateMarkdown(data){ 
     return `
-    # **${data.title}**
+    # **${data.title}** #
 
     ${data.badge}
 
-    ## Descritption 
+    ## Descritption ##
 
     ${data.description}
 
@@ -39,7 +39,7 @@ function generateMarkdown(data){
 
     ${data.repository}
 
-    # Github
+    ## Github
 
     ${data.githublink}
     `;
