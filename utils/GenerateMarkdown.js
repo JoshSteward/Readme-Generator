@@ -41,7 +41,7 @@ function generateMarkdown(data){
 
     #Github
 
-    ${data.githubLink}
+    ${data.githublink}
     `
 }
 
