@@ -1,13 +1,13 @@
 
-    #**ReadME generator**
+    # **sd**
 
-    [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+    d
 
-    ##Descritption 
+    ## Descritption 
 
-    This program creates a README file for the user based on their inputs
+    d
 
-    ##Table of Contents 
+    ## Table of Contents 
 
     - [Description](#Description)
     - [Installation](#Installation)
@@ -18,27 +18,27 @@
     - [Repository Link](#Repository)
     - [GitHub Info](#GitHub) 
 
-    ##Installation
+    ## Installation
 
-    Download and go!
+    dd
 
-    ##Usage 
+    ## Usage 
 
-    Reduces the time needed to create a README file
+    d
 
-    ##License 
+    ## License 
 
-    [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+    d
 
-    ##Contributers 
+    ## Contributers 
 
-    Josh Steward
+    d
 
     ##Repository 
 
-    TBA
+    
 
-    #Github
+    # Github
 
-    https://github.com/JoshSteward
+    d
     
