@@ -1,11 +1,11 @@
 
-# **f** #
+# **Professional README Generator** #
 
-f
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
 ## Descritption ##
 
-f
+This application creates a professional README.md file from a user's input using the Inquirer package.
 
 ## Table of Contents 
 
@@ -20,25 +20,33 @@ f
 
 ## Installation
 
-f
+https://drive.google.com/file/d/10QQTCNbajFY-PpbBXtEb71bQZdMiWQog/view
 
 ## Usage 
 
-f
+Used to create professional readme.md files
 
 ## License 
 
-f
+afl-3.0
 
 ## Contributers 
 
-f
+Joshua Steward
 
-##Repository 
+## Tests
 
-f
+-
+
+## Questions
+
+stewardjosh10@gmail.com
+
+## Repository 
+
+https://github.com/JoshSteward/Readme-Generator
 
 ## Github
 
-f
+https://github.com/JoshSteward
     

@@ -35,7 +35,15 @@ ${data.license}
 
 ${data.contributers}
 
-##Repository 
+## Tests
+
+${data.tests}
+
+## Questions
+
+${data.questions}
+
+## Repository 
 
 ${data.repository}
 

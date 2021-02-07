@@ -47,6 +47,16 @@ inquirer
         name: 'contributers',
     },
     {
+        type: 'input',
+        message: 'Please provide any tests',
+        name: 'tests',
+    },
+    {
+        type: 'input',
+        message: 'Please your email for questions',
+        name: 'questions',
+    },
+    {
       type: 'input',
       message: 'Please provide a link to your github profile',
       name: 'githublink',
